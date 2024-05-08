@@ -1,0 +1,4 @@
+!.storybook
+build
+.next
+**/node_modules
